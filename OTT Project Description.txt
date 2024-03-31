@@ -1,0 +1,12 @@
+Project Description-
+
+
+1)Worked on various OTT dataset:
+  a) Netflix
+  b) AmazonPrime
+  c) DisneyHotstar+
+
+2)Used the Query Editor for data cleaning and preprocessing.
+
+3)Displayed the visuals using variety of plots, cards.
+
